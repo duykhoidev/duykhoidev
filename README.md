@@ -77,12 +77,17 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/dii.koyy.1105/" target="blank">
+  <!-- Facebook -->
+  <!-- <a href="https://www.facebook.com/dii.koyy.1105/" target="blank">
     <img src="https://img.icons8.com/clouds/100/facebook-new.png" alt="duykhoidev-facebook" />
-  </a>
+  </a> -->
+
+  <!-- Linkedin -->
   <a href="https://www.linkedin.com/in/khoi-nguyen-8747341a3/" target="blank">
     <img src="https://img.icons8.com/clouds/100/linkedin.png" alt="duykhoidev-linkedin" />
   </a>
+
+  <!-- Email -->
   <a href="mailto:nguyenvuduykhoi2001@gmail.com" target="top">
     <img src="https://img.icons8.com/clouds/100/gmail-new.png" alt="duykhoidev-email" />
   </a>
