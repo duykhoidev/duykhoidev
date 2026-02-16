@@ -60,15 +60,22 @@
 &nbsp;
 
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<!-- <h2 align="center">🔥 GitHub Stats 🔥</h2> -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
+<!-- <br>
 <div align=center>
   <a href="#" title="duykhoidev">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duykhoidev&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="duykhoidev">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=duykhoidev&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
+  </a>
+</div> -->
+<h2 align="center">🔥 LeetCode Stats 🔥</h2>
+<br>
+<div align="center">
+  <a href="https://leetcode.com/u/diikoyy/" target="_blank">
+    <img src="https://leetcode-stats.vercel.app/api?username=diikoyy&theme=Dark" alt="LeetCode Stats" />
   </a>
 </div>
 
@@ -83,7 +90,7 @@
   </a> -->
 
   <!-- Linkedin -->
-  <a href="https://www.linkedin.com/in/khoi-nguyen-8747341a3/" target="blank">
+  <a href="https://www.linkedin.com/in/khoi-nguyen-1105-dev/" target="blank">
     <img src="https://img.icons8.com/clouds/100/linkedin.png" alt="duykhoidev-linkedin" />
   </a>
 
